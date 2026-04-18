@@ -1,0 +1,33 @@
+C:\Users\chloe\source\repos\SweetBeanHomeScreen\SweetBeanHomeScreen\bin\Debug\SweetBeanHomeScreen.exe.config
+C:\Users\chloe\source\repos\SweetBeanHomeScreen\SweetBeanHomeScreen\bin\Debug\SweetBeanHomeScreen.exe
+C:\Users\chloe\source\repos\SweetBeanHomeScreen\SweetBeanHomeScreen\bin\Debug\SweetBeanHomeScreen.pdb
+C:\Users\chloe\source\repos\SweetBeanHomeScreen\SweetBeanHomeScreen\bin\Debug\SweetBeanBase.dll
+C:\Users\chloe\source\repos\SweetBeanHomeScreen\SweetBeanHomeScreen\bin\Debug\SweetBeanBase.pdb
+C:\Users\chloe\source\repos\SweetBeanHomeScreen\SweetBeanHomeScreen\bin\Debug\SweetBeanBase.dll.config
+C:\Users\chloe\source\repos\SweetBeanHomeScreen\SweetBeanHomeScreen\obj\Debug\SweetBeanHomeScreen.csproj.AssemblyReference.cache
+C:\Users\chloe\source\repos\SweetBeanHomeScreen\SweetBeanHomeScreen\obj\Debug\SweetBeanHomeScreen.HomeForm.resources
+C:\Users\chloe\source\repos\SweetBeanHomeScreen\SweetBeanHomeScreen\obj\Debug\SweetBeanHomeScreen.Properties.Resources.resources
+C:\Users\chloe\source\repos\SweetBeanHomeScreen\SweetBeanHomeScreen\obj\Debug\SweetBeanHomeScreen.csproj.GenerateResource.cache
+C:\Users\chloe\source\repos\SweetBeanHomeScreen\SweetBeanHomeScreen\obj\Debug\SweetBeanHomeScreen.csproj.CoreCompileInputs.cache
+C:\Users\chloe\source\repos\SweetBeanHomeScreen\SweetBeanHomeScreen\obj\Debug\SweetBea.000E53A8.Up2Date
+C:\Users\chloe\source\repos\SweetBeanHomeScreen\SweetBeanHomeScreen\obj\Debug\SweetBeanHomeScreen.exe
+C:\Users\chloe\source\repos\SweetBeanHomeScreen\SweetBeanHomeScreen\obj\Debug\SweetBeanHomeScreen.pdb
+C:\Users\chloe\source\repos\SweetBeanHomeScreen\SweetBeanHomeScreen\obj\Debug\SweetBeanHomeScreen.exe.config
+E:\App Dev I\Assignments\Group Project\Project Docs\SweetBeanHomeScreen\SweetBeanHomeScreen\bin\Debug\Products.mdf
+E:\App Dev I\Assignments\Group Project\Project Docs\SweetBeanHomeScreen\SweetBeanHomeScreen\bin\Debug\Products_log.ldf
+E:\App Dev I\Assignments\Group Project\Project Docs\SweetBeanHomeScreen\SweetBeanHomeScreen\bin\Debug\SweetBeanHomeScreen.exe.config
+E:\App Dev I\Assignments\Group Project\Project Docs\SweetBeanHomeScreen\SweetBeanHomeScreen\bin\Debug\SweetBeanHomeScreen.exe
+E:\App Dev I\Assignments\Group Project\Project Docs\SweetBeanHomeScreen\SweetBeanHomeScreen\bin\Debug\SweetBeanHomeScreen.pdb
+E:\App Dev I\Assignments\Group Project\Project Docs\SweetBeanHomeScreen\SweetBeanHomeScreen\bin\Debug\SweetBeanBase.dll
+E:\App Dev I\Assignments\Group Project\Project Docs\SweetBeanHomeScreen\SweetBeanHomeScreen\bin\Debug\SweetBeanBase.pdb
+E:\App Dev I\Assignments\Group Project\Project Docs\SweetBeanHomeScreen\SweetBeanHomeScreen\bin\Debug\SweetBeanBase.dll.config
+E:\App Dev I\Assignments\Group Project\Project Docs\SweetBeanHomeScreen\SweetBeanHomeScreen\obj\Debug\SweetBeanHomeScreen.csproj.AssemblyReference.cache
+E:\App Dev I\Assignments\Group Project\Project Docs\SweetBeanHomeScreen\SweetBeanHomeScreen\obj\Debug\SweetBeanHomeScreen.exe.config
+E:\App Dev I\Assignments\Group Project\Project Docs\SweetBeanHomeScreen\SweetBeanHomeScreen\obj\Debug\SweetBeanHomeScreen.HomeForm.resources
+E:\App Dev I\Assignments\Group Project\Project Docs\SweetBeanHomeScreen\SweetBeanHomeScreen\obj\Debug\SweetBeanHomeScreen.Properties.Resources.resources
+E:\App Dev I\Assignments\Group Project\Project Docs\SweetBeanHomeScreen\SweetBeanHomeScreen\obj\Debug\SweetBeanHomeScreen.csproj.GenerateResource.cache
+E:\App Dev I\Assignments\Group Project\Project Docs\SweetBeanHomeScreen\SweetBeanHomeScreen\obj\Debug\SweetBeanHomeScreen.csproj.CoreCompileInputs.cache
+E:\App Dev I\Assignments\Group Project\Project Docs\SweetBeanHomeScreen\SweetBeanHomeScreen\obj\Debug\SweetBea.000E53A8.Up2Date
+E:\App Dev I\Assignments\Group Project\Project Docs\SweetBeanHomeScreen\SweetBeanHomeScreen\obj\Debug\SweetBeanHomeScreen.exe
+E:\App Dev I\Assignments\Group Project\Project Docs\SweetBeanHomeScreen\SweetBeanHomeScreen\obj\Debug\SweetBeanHomeScreen.pdb
+E:\App Dev I\Assignments\Group Project\Project Docs\SweetBeanHomeScreen\SweetBeanHomeScreen\obj\Debug\SweetBeanHomeScreen.MenuItem.resources
