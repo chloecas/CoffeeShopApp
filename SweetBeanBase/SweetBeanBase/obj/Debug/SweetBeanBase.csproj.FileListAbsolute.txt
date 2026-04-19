@@ -1,0 +1,10 @@
+C:\Users\chloe\source\repos\SweetBeanBase\SweetBeanBase\bin\Debug\SweetBeanBase.pdb
+C:\Users\chloe\source\repos\SweetBeanBase\SweetBeanBase\obj\Debug\SweetBeanBase.csproj.AssemblyReference.cache
+C:\Users\chloe\source\repos\SweetBeanBase\SweetBeanBase\obj\Debug\SweetBeanBase.BaseForm.resources
+C:\Users\chloe\source\repos\SweetBeanBase\SweetBeanBase\obj\Debug\SweetBeanBase.Properties.Resources.resources
+C:\Users\chloe\source\repos\SweetBeanBase\SweetBeanBase\obj\Debug\SweetBeanBase.csproj.GenerateResource.cache
+C:\Users\chloe\source\repos\SweetBeanBase\SweetBeanBase\obj\Debug\SweetBeanBase.csproj.CoreCompileInputs.cache
+C:\Users\chloe\source\repos\SweetBeanBase\SweetBeanBase\obj\Debug\SweetBeanBase.pdb
+C:\Users\chloe\source\repos\SweetBeanBase\SweetBeanBase\bin\Debug\SweetBeanBase.dll.config
+C:\Users\chloe\source\repos\SweetBeanBase\SweetBeanBase\bin\Debug\SweetBeanBase.dll
+C:\Users\chloe\source\repos\SweetBeanBase\SweetBeanBase\obj\Debug\SweetBeanBase.dll
